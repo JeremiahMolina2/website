@@ -1,6 +1,6 @@
 const textEl = document.getElementById('text')
 const speedEl = document.getElementById('speed')
-const text = 'im better'
+const text = 'You are wrong'
 let idx = 1
 let speed = 300 / speedEl.value
 
@@ -17,4 +17,6 @@ function writeText() {
     setTimeout(writeText, speed)
 }
 
-speedEl.add
+speedEl.addEventListener('input', (e) => {
+    speed = 300 / e.target.value
+})
