@@ -55,7 +55,7 @@ body {
     outline: none;
 }
 
-href {
+li {
     display: flex;
     height: 100vh;
     justify-content: flex-start;
