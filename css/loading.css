@@ -24,3 +24,12 @@ body {
     font-size: 50px;
     color: #ffffff;
 }
+
+li {
+    position: fixed;
+    display: flex;
+    height: 100vh;
+    align-items: flex;
+    justify-content: flex;
+    margin: 0;
+    overflow: hidden;
