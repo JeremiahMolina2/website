@@ -39,7 +39,7 @@ function update () {
     }
     else {
         prev.disabled = false
-        next.disabled = false
+        next.disabled = fals
     }
 
 
