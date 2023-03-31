@@ -57,8 +57,8 @@ body {
 
 li {
     position: fixed;
-    display: flex;
-    height: 100vh;
+    
+    height: 50vh;
     align-items: flex;
     justify-content: flex;
     margin: 0;
