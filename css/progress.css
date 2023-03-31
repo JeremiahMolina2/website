@@ -43,6 +43,7 @@ body {
     transform: translate(-50%);
 }
 
+
 .progress {
     position: absolute;
     background-color: var(--blue);
