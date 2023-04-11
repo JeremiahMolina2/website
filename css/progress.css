@@ -50,7 +50,7 @@ body {
     top: 50%;
     left: 0;
     height: 4px;
-    width: 10%;
+    width: 0%;
     z-index: -1;
     transform: translateY(-50%);
     transition: width 0.7s ease;
@@ -69,7 +69,7 @@ body {
     transition: 0.5s ease;
 }
 
-.cirle.active {
+.circle.active {
     border-color: var(--blue);
 }
 
