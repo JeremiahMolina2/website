@@ -27,3 +27,10 @@ body {
 .btn:hover {
     opacity: 0.9;
 }
+
+
+.home {
+    position: fixed;
+    top: 10px;
+    left: 50%;
+}
