@@ -1,4 +1,4 @@
-console.log("HELLO")
+
 
 const search = document.querySelector('.search')
 const btn = document.querySelector('.btn')
