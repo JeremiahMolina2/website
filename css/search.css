@@ -55,3 +55,8 @@ body {
     outline: none;
 }
 
+.home {
+    position: fixed;
+    top: 10px;
+    left: 50%;
+}
