@@ -45,3 +45,8 @@ h3 {
 .btn:active {
     transform: scale(0.98);
 }
+.home {
+    position: fixed;
+    top: 10px;
+    left: 50%;
+}
