@@ -58,8 +58,6 @@ body {
 li {
     position: fixed;
     height: 50vh;
-    align-items: flex;
-    justify-content: flex;
     margin: 0;
     overflow: hidden;
 }
