@@ -35,7 +35,7 @@ function update() {
     if (currentActive ==1) {
         prev.disabled = true
     }
-    else if (currentActive ==4){
+    else if (currentActive == 4){
         next.disabled = true
     }
     else {
