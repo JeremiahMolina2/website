@@ -22,13 +22,13 @@ prev.addEventListener('click', () => {
     currentActive--
 
     if (currentActive < 1) {
-        currentACtive =1
+        currentActive = 1
     }
 
     update()
 })
 
-function update () {
+function update() {
     progress.style.width = (currentActive - 1) / 3 + '%'
 
 
