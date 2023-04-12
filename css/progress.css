@@ -93,3 +93,9 @@ body {
     background-color: var(--grey);
     cursor: not-allowed;
 }
+
+.home {
+    position: fixed;
+    top: 10px;
+    left: 50%;
+}
