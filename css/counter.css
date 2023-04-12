@@ -31,3 +31,8 @@ body{
         flex-direction: column;
     }
 }
+.home {
+    position: fixed;
+    top: 10px;
+    left: 50%;
+}
