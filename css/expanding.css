@@ -57,12 +57,8 @@ body{
     }
 }
 
-li {
+.home {
     position: fixed;
-    display: flex;
-    height: 100vh;
-    align-items: flex;
-    justify-content: flex;
-    margin: 0;
-    overflow: hidden;
+    top: 10px;
+    left: 50%;
 }
