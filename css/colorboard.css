@@ -29,3 +29,8 @@ body {
 .square:hover {
     transition-duration: 0s;
 }
+.home {
+    position: fixed;
+    top: 10px;
+    left: 50%;
+}
